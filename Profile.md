@@ -1,1 +1,3 @@
-Welcome to my GitHub profile!
+-----------------------------
+Welcome to the Aido Pit
+-----------------------------
